@@ -1,0 +1,4 @@
+include ':testxpabs'
+include ':libtest'
+include ':app'
+rootProject.name = "testabstract"
